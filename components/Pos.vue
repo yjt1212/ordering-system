@@ -1,10 +1,6 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-   <!--  <p>双向绑定:{{ modelData }}</p>
-    <input type="text" v-model="modelData" />
-    <a v-bind:href="href_Url">v-bind,绑定属性</a>
-    <div :xx123="abcxx">绑定属性,v-bind</div> -->
     <el-row>
       <el-col :span="8">
         <el-tabs>
