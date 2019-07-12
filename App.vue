@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <!-- 引入router文件以 【<router-view/>】 形式放在 App.vue中，
-      <router-view/>是一个容器，用于显示路由中配置的文件 -->
     <router-view/>
   </div>
 </template>
